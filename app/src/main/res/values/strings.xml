@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Walking Tour Guide</string>
+
+    <string name="track_player_name">Player</string>
+    <string name="settings_name">Settings</string>
+
+    <string name="audio_path">/storage/self/primary/Music/</string>
+    <string name="playback_speed_default">1.0</string>
+    <string name="playback_speed_display">Playback speed: %1$s</string>
+
+    <string name="back_btn_name">Back</string>
+    <string name="play_btn_name">Play</string>
+    <string name="pause_btn_name">Pause</string>
+    <string name="stop_btn_name">Stop</string>
+    <string name="prev_btn_name">Previous</string>
+    <string name="next_btn_name">Next</string>
+    <string name="bookmark_btn_name">Bookmark</string>
+
+    <string name="channel_id">audio_controls</string>
+
+    <string name="database_name">app_database</string>
+</resources>

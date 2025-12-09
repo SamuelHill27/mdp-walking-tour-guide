@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WalkingTourGuide" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="android:windowBackground">@color/primary_background_dark</item>
+    </style>
+
+    <style name="Theme.WalkingTourGuide" parent="Base.Theme.WalkingTourGuide" />
+</resources>
