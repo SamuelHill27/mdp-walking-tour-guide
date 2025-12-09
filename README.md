@@ -1,2 +1,2 @@
 # mdp-walking-tour-guide
-coursework for university
+App written for university coursework 
